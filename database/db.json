@@ -1,0 +1,38 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "email": "typicode",
+      "password": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tutorials": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "oooo",
+      "published": false
+    },
+    {
+      "title": "ghg",
+      "description": "ghg",
+      "id": 2
+    },
+    {
+      "title": "murad",
+      "description": "hassan",
+      "id": 3
+    }
+  ]
+}
